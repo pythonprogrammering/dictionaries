@@ -17,6 +17,24 @@
 
 Givet en lång sträng av ord, skapa en dictionary som visar antalet av varje ord i strängen.
 
-#### M Invertera en Dictionary
+#### Invertera en Dictionary
 
 Skapa en dictionary med objekt där nycklarna är unika, men värdena är inte det. Skriv en funktion för att invertera dictionaryn, genom att göra värdena från den ursprungliga dictionaryn till nycklar och nycklarna från den ursprungliga dictionaryn till värden i den nya. Eftersom nycklar är unika kan vissa värden komma att bli listor.
+
+### Övningar för självstudier
+Nedanstående övningar handlar om allting vi har gått igenom under första veckan.
+
+#### Rövarspråket
+
+Gör ett program som översätter en sträng till rövarspråket. (https://sv.wikipedia.org/wiki/R%C3%B6varspr%C3%A5ket)
+
+#### Lista baklänges
+
+Skapa en funktion som tar in två listor. Funktionen returnar sant/falskt om den ena listan är den andra baklänges.
+
+#### Varannan bokstav
+
+Skriv en funktion som tar in en sträng som argument och returnerar varannan bokstav.
+
+#### Leetcode (#2011)
+https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/
