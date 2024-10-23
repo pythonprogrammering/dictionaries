@@ -19,7 +19,7 @@ Givet en lång sträng av ord, skapa en dictionary som visar antalet av varje or
 
 #### Invertera en Dictionary
 
-Skapa en dictionary med objekt där nycklarna är unika, men värdena är inte det. Skriv en funktion för att invertera dictionaryn, genom att göra värdena från den ursprungliga dictionaryn till nycklar och nycklarna från den ursprungliga dictionaryn till värden i den nya. Eftersom nycklar är unika kan vissa värden komma att bli listor.
+Skapa en dictionary med objekt där nycklarna och värdena är unika. Skriv en funktion för att invertera dictionaryn, genom att göra värdena från den ursprungliga dictionaryn till nycklar och nycklarna från den ursprungliga dictionaryn till värden i den nya.
 
 ### Övningar för självstudier
 Nedanstående övningar handlar om allting vi har gått igenom under första veckan.
